@@ -22,7 +22,7 @@ import com.valdir.todo.services.TodoService;
 
 @RestController
 @RequestMapping(value = "/api/todo")
-@CrossOrigin("https://valdircezar.github.io/")
+@CrossOrigin("*")
 public class TodoResource {
 	
 	@Autowired
