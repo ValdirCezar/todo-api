@@ -10,7 +10,8 @@
 	</parent>
 	<groupId>com.valdir</groupId>
 	<artifactId>todo</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
+	<packaging>war</packaging>
 	<name>todo</name>
 	<description>Demo project for Spring Boot</description>
 
